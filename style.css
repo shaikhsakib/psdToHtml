@@ -1,0 +1,69 @@
+
+body {
+    
+}
+@font-face {
+    font-family: 'stone';
+    src: URL('stone.ttf') format('ttf');
+  }
+    .container {
+        height: auto;
+        padding: 20px;
+        margin-bottom: 10px;
+        background-color: #ffffff;
+        width: auto;
+}
+ .martin{
+    font-family: 'stone';
+        font-size: 100px;
+        color: #D4D6C7;
+}
+.johnes{
+    font-family: 'stone';
+        font-size: 100px;
+        color: #EAEACC;
+}
+.family{
+    font-family: 'stone';
+    color: #E9EAE5;
+    font-size: 22px;
+}
+.navbar {
+    border-top: 2px solid rgb(244, 245, 242);
+    border-bottom: 2px solid rgb(244, 245, 242);
+}
+.navbar .nav li a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #D5D6D1;
+    font-size: 14px;
+}
+
+.fa {
+    height: 40px;
+    padding-top: 12px;
+    width: 40px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #D4D6C7;
+    color: beige;
+  }
+  .icons{
+      margin-top: 5px;
+  }
+  .fa:hover {
+      opacity: 0.7;
+      color: rgb(129, 136, 83);
+  }
+  .titles{
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 26px;
+      color: #ffffff;
+      padding: 10px;
+  }
+  .col-md-4 li{
+      color: red;
+  }
+  .col-md-4 li span{
+    color: rgb(129, 131, 114);
+}
